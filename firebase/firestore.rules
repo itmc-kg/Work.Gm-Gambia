@@ -1,0 +1,56 @@
+service cloud.firestore {
+  match /databases/{database}/documents {
+  	function isUser(id) {
+    	return id == request.auth.uid;
+    }
+		function isSigned() {
+    	return request.auth.uid != null;
+    }
+    function isEmployer() {
+    	return exists(/databases/$(database)/documents/employers/$(request.auth.uid));
+    }
+    function isEmployee() {
+    	return exists(/databases/$(database)/documents/employees/$(request.auth.uid));
+    }
+    function isChatMember(chatId) {
+    	return get(/databases/$(database)/documents/chats/$(chatId)).data.users.hasAny([request.auth.uid]);
+    }
+  	match /users/{userId} {
+    	allow read: if isUser(userId);
+      allow write: if isUser(userId);
+    }
+    match /employees/{employeeId} {
+    	allow read: if isSigned();
+      allow write: if isUser(employeeId);
+    }
+    match /employers/{employerId} {
+    	allow read: if isSigned();
+      allow write: if isUser(employerId);
+    }
+    match /regions/{regionId} {
+    	allow read: if isSigned();
+    }
+    match /spheres/{sphereId} {
+    	allow read: if isSigned();
+    }
+    match /vacancies/{vacancyId} {
+    	allow read: if isSigned();
+      allow create: if isEmployer();
+      allow update, delete: if isUser(resource.data.creatorId);
+    }
+    match /applications/{applicationId} {
+    	allow read, delete: if isUser(resource.data.authorId) || isUser(resource.data.employerId);
+    	allow create: if isEmployee();
+      allow update: if isUser(resource.data.employerId);
+    }
+    match /chats/{chatId} {
+    	allow read: if resource.data.users.hasAny([request.auth.uid]);
+      allow create: if isEmployer();
+      match /messages/{messageId} {
+      	allow read: if isChatMember(chatId);
+        allow create: if isChatMember(chatId);
+        allow update: if isUser(resource.data.from);
+      }
+    }
+  }
+}

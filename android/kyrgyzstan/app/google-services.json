@@ -1,0 +1,179 @@
+{
+  "project_info": {
+    "project_number": "1010500293198",
+    "firebase_url": "https://job-153a4.firebaseio.com",
+    "project_id": "job-153a4",
+    "storage_bucket": "job-153a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1010500293198:android:f6933a0fbe4e91dc",
+        "android_client_info": {
+          "package_name": "kg.jobs.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1010500293198-4oh1trf8klah4ej017ooub68euk1tau1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "kg.jobs.app",
+            "certificate_hash": "38791f7608b27da19c6e599ca0bea14e5723acf9"
+          }
+        },
+        {
+          "client_id": "1010500293198-u9nrjm730ij3b3c0onj6unev4n6as9oa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "kg.jobs.app",
+            "certificate_hash": "ed47ef5ea197c9e9b83e1162ccdd53c38b4a1fac"
+          }
+        },
+        {
+          "client_id": "1010500293198-4otpt3ljpd81tjkdgdi3cas49nik6onk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "kg.jobs.app",
+            "certificate_hash": "228bf09cafe0c34005990729b12f1ab12da78b3b"
+          }
+        },
+        {
+          "client_id": "1010500293198-7gm0akvmvuufmphma69b7sorj0de296s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "kg.jobs.app",
+            "certificate_hash": "c7b2ec43fb71a69f1e0e1d34eb9f3a230aa367d2"
+          }
+        },
+        {
+          "client_id": "1010500293198-m5kfv77dn28j9rtbdlbmg616fvj0heac.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "kg.jobs.app",
+            "certificate_hash": "7c1bd06a9a70327f3983f8edb09478f7c06e9ef9"
+          }
+        },
+        {
+          "client_id": "1010500293198-n3abrdmu6re1pajqq3gv907dpbt3q9qv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMs-w3tZW7nnU-c-ntf-6tgtC3AkUFQ7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1010500293198-n3abrdmu6re1pajqq3gv907dpbt3q9qv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1010500293198-92op57tsdk4oa115nl8i7124arirsuq8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "kg.tinder.job"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1010500293198:android:7ddaeb4346617977",
+        "android_client_info": {
+          "package_name": "kg.jumush.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1010500293198-onqq2s7vkjk6vn7piebuq1pkr54is4q2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "kg.jumush.app",
+            "certificate_hash": "38791f7608b27da19c6e599ca0bea14e5723acf9"
+          }
+        },
+        {
+          "client_id": "1010500293198-gad4ctprdsptkcpk5adnieooup4o7h5q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "kg.jumush.app",
+            "certificate_hash": "87559dc63e990d4e1998df90108516e54eb2bf62"
+          }
+        },
+        {
+          "client_id": "1010500293198-fkima779k092n9f4t03cau2i0h5aavhl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "kg.jumush.app",
+            "certificate_hash": "a66f7347fe822a6017ea7cf44ff1f6fd77eebfc3"
+          }
+        },
+        {
+          "client_id": "1010500293198-p7eelc1s5485gquaeltk58a8slc682vq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "kg.jumush.app",
+            "certificate_hash": "ed47ef5ea197c9e9b83e1162ccdd53c38b4a1fac"
+          }
+        },
+        {
+          "client_id": "1010500293198-70g8jo026921gulvnaluj53hca4p3r4j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "kg.jumush.app",
+            "certificate_hash": "228bf09cafe0c34005990729b12f1ab12da78b3b"
+          }
+        },
+        {
+          "client_id": "1010500293198-g035kmcil8r7bt9cctu7hgpn2ol97g9g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "kg.jumush.app",
+            "certificate_hash": "c7b2ec43fb71a69f1e0e1d34eb9f3a230aa367d2"
+          }
+        },
+        {
+          "client_id": "1010500293198-7a9olnq8c9ld657kfuonpn4eg4l367hs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "kg.jumush.app",
+            "certificate_hash": "7c1bd06a9a70327f3983f8edb09478f7c06e9ef9"
+          }
+        },
+        {
+          "client_id": "1010500293198-n3abrdmu6re1pajqq3gv907dpbt3q9qv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMs-w3tZW7nnU-c-ntf-6tgtC3AkUFQ7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1010500293198-n3abrdmu6re1pajqq3gv907dpbt3q9qv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1010500293198-92op57tsdk4oa115nl8i7124arirsuq8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "kg.tinder.job"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

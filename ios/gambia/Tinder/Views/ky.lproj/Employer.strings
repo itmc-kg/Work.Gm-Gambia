@@ -1,0 +1,125 @@
+/* Class = "UITableViewSection"; headerTitle = "График"; ObjectID = "217-e6-l83"; */
+"217-e6-l83.headerTitle" = "График";
+
+/* Class = "UIButton"; normalTitle = "Профилди көрсөтүңүз"; ObjectID = "23f-p9-D9O"; */
+"23f-p9-D9O.normalTitle" = "Профилди көрсөтүңүз";
+
+/* Class = "UIButton"; normalTitle = "Мындан ары"; ObjectID = "75z-VZ-OeN"; */
+"75z-VZ-OeN.normalTitle" = "Мындан ары";
+
+/* Class = "UITabBarItem"; title = "Издөө"; ObjectID = "8bH-ZI-JTd"; */
+"8bH-ZI-JTd.title" = "Издөө";
+
+/* Class = "UILabel"; text = "Күнүмдүк"; ObjectID = "8sg-oy-s99"; */
+"8sg-oy-s99.text" = "Күнүмдүк";
+
+/* Class = "UILabel"; text = "5000- 180000"; ObjectID = "DsY-8G-iJ2"; */
+"DsY-8G-iJ2.text" = "5000- 180000";
+
+/* Class = "UITextView"; text = "Сүрөттөө"; ObjectID = "DwV-IY-B6R"; */
+"DwV-IY-B6R.text" = "Сүрөттөө";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "EW7-Bu-BcO"; */
+"EW7-Bu-BcO.title" = "Item";
+
+/* Class = "UITextField"; placeholder = "Аталышы"; ObjectID = "GMA-rK-cIq"; */
+"GMA-rK-cIq.placeholder" = "Аталышы";
+
+/* Class = "UILabel"; text = "Убактылуу"; ObjectID = "LMj-zH-8gi"; */
+"LMj-zH-8gi.text" = "Убактылуу";
+
+/* Class = "UILabel"; text = "Тандалган жок"; ObjectID = "MEo-64-n8t"; */
+"MEo-64-n8t.text" = "Тандалган жок";
+
+/* Class = "UILabel"; text = "Эмгек акы"; ObjectID = "Mxn-at-fS5"; */
+"Mxn-at-fS5.text" = "Эмгек акы";
+
+/* Class = "UITableViewSection"; headerTitle = "Жумуштуулук"; ObjectID = "NSm-9O-9ub"; */
+"NSm-9O-9ub.headerTitle" = "Жумуштуулук";
+
+/* Class = "UILabel"; text = "Толук"; ObjectID = "Q7q-0H-v1n"; */
+"Q7q-0H-v1n.text" = "Толук";
+
+/* Class = "UIButton"; normalTitle = "LOGO"; ObjectID = "QdM-We-8yN"; */
+"QdM-We-8yN.normalTitle" = "LOGO";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "SI5-ZT-Qqz"; */
+"SI5-ZT-Qqz.title" = "Item";
+
+/* Class = "UILabel"; text = "Белгиленген"; ObjectID = "WD9-EK-vsR"; */
+"WD9-EK-vsR.text" = "Белгиленген";
+
+/* Class = "UITextField"; placeholder = "Шаар, айыл же шта"; ObjectID = "Y9k-PI-gmU"; */
+"Y9k-PI-gmU.placeholder" = "Шаар, айыл же шта";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "YAa-Ee-Gec"; */
+"YAa-Ee-Gec.title" = "Item";
+
+/* Class = "UILabel"; text = "Иштѳѳ сфералары"; ObjectID = "Yip-LQ-gg7"; */
+"Yip-LQ-gg7.text" = "Иштѳѳ сфералары";
+
+/* Class = "UILabel"; text = "Алыскы"; ObjectID = "bc1-Az-Ccu"; */
+"bc1-Az-Ccu.text" = "Алыскы";
+
+/* Class = "UITextView"; text = "Компания жөнүндө"; ObjectID = "d21-YE-yxt"; */
+"d21-YE-yxt.text" = "Компания жөнүндө";
+
+/* Class = "UILabel"; text = "Иштин графиги"; ObjectID = "dR7-Hg-oh2"; */
+"dR7-Hg-oh2.text" = "Иштин графиги";
+
+/* Class = "UIButton"; normalTitle = "Жазуу"; ObjectID = "dd4-Mk-Xwa"; */
+"dd4-Mk-Xwa.normalTitle" = "Жазуу";
+
+/* Class = "UITabBarItem"; title = "Баарлашуулар"; ObjectID = "eJc-gy-J14"; */
+"eJc-gy-J14.title" = "Баарлашуулар";
+
+/* Class = "UILabel"; text = "Өлчөм"; ObjectID = "gEe-4a-L6B"; */
+"gEe-4a-L6B.text" = "Өлчөм";
+
+/* Class = "UITableViewSection"; headerTitle = "Жумуштуулук"; ObjectID = "h8X-JF-7Dt"; */
+"h8X-JF-7Dt.headerTitle" = "Жумуштуулук";
+
+/* Class = "UITextField"; placeholder = "Аталыш"; ObjectID = "jSu-sy-B6Q"; */
+"jSu-sy-B6Q.placeholder" = "Аталыш";
+
+/* Class = "UILabel"; text = "Тандалган жок"; ObjectID = "kev-Bw-di2"; */
+"kev-Bw-di2.text" = "Тандалган жок";
+
+/* Class = "UITextField"; placeholder = "Регион"; ObjectID = "p66-43-bct"; */
+"p66-43-bct.placeholder" = "Регион";
+
+/* Class = "UITextField"; text = "Чүй облусу"; ObjectID = "p66-43-bct"; */
+"p66-43-bct.text" = "Чүй облусу";
+
+/* Class = "UILabel"; text = "Алыскы"; ObjectID = "r9J-uZ-ICj"; */
+"r9J-uZ-ICj.text" = "Алыскы";
+
+/* Class = "UILabel"; text = "Такшалма"; ObjectID = "rBJ-z9-AyP"; */
+"rBJ-z9-AyP.text" = "Такшалма";
+
+/* Class = "UILabel"; text = "Көрсөтпөө (аңгемелешкенден кийин)"; ObjectID = "rbJ-Qr-szV"; */
+"rbJ-Qr-szV.text" = "Көрсөтпөө (аңгемелешкенден кийин)";
+
+/* Class = "UILabel"; text = "Ылайыктуу"; ObjectID = "tCB-fc-sSu"; */
+"tCB-fc-sSu.text" = "Ылайыктуу";
+
+/* Class = "UIButton"; normalTitle = "Мындан ары"; ObjectID = "toR-Kf-wH5"; */
+"toR-Kf-wH5.normalTitle" = "Мындан ары";
+
+/* Class = "UITabBarItem"; title = "Бош орун"; ObjectID = "tuB-3m-t0R"; */
+"tuB-3m-t0R.title" = "Бош орун";
+
+/* Class = "UILabel"; text = "Тандалган жок"; ObjectID = "uHJ-Zs-7de"; */
+"uHJ-Zs-7de.text" = "Тандалган жок";
+
+/* Class = "UINavigationItem"; title = "Баарлашуулар"; ObjectID = "vkR-cQ-5XM"; */
+"vkR-cQ-5XM.title" = "Баарлашуулар";
+
+/* Class = "UILabel"; text = "Жарым жартылай"; ObjectID = "w4M-WJ-Ffj"; */
+"w4M-WJ-Ffj.text" = "Жарым жартылай";
+
+/* Class = "UILabel"; text = "Компанияңыздын логотибин жүктөңүз"; ObjectID = "xnn-Gc-LB2"; */
+"xnn-Gc-LB2.text" = "Компанияңыздын логотибин жүктөңүз";
+
+/* Class = "UILabel"; text = "Диапазон (аңгемелешкенден кийин)"; ObjectID = "zDB-uo-C3I"; */
+"zDB-uo-C3I.text" = "Диапазон (аңгемелешкенден кийин)";

@@ -1,0 +1,9 @@
+
+/* Class = "UIButton"; normalTitle = "Закрытые"; ObjectID = "AXv-KC-iWy"; */
+"AXv-KC-iWy.normalTitle" = "Закрытые";
+
+/* Class = "UILabel"; text = "Вакансии"; ObjectID = "R74-Tb-NjA"; */
+"R74-Tb-NjA.text" = "Вакансии";
+
+/* Class = "UIButton"; normalTitle = "Активные"; ObjectID = "kpo-ag-wux"; */
+"kpo-ag-wux.normalTitle" = "Активные";

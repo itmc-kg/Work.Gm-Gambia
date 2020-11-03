@@ -1,0 +1,42 @@
+
+/* Class = "UIButton"; normalTitle = "+996"; ObjectID = "1lf-B2-jYK"; */
+"1lf-B2-jYK.normalTitle" = "+996";
+
+/* Class = "UILabel"; text = "Добро пожаловать"; ObjectID = "5mx-0M-wzU"; */
+"5mx-0M-wzU.text" = "Добро пожаловать";
+
+/* Class = "UIBarButtonItem"; title = "Отмена"; ObjectID = "62V-A5-FCU"; */
+"62V-A5-FCU.title" = "Отмена";
+
+/* Class = "UITextField"; placeholder = "Код подтверждения"; ObjectID = "9Cp-yd-FAp"; */
+"9Cp-yd-FAp.placeholder" = "Код подтверждения";
+
+/* Class = "UILabel"; text = "Поиск работы никогда не был настолько простым"; ObjectID = "Dbf-Fl-yQw"; */
+"Dbf-Fl-yQw.text" = "Поиск работы никогда не был настолько простым";
+
+/* Class = "UILabel"; text = "Страна"; ObjectID = "FSW-6y-xie"; */
+"FSW-6y-xie.text" = "Страна";
+
+/* Class = "UITextField"; placeholder = "Номер телефона"; ObjectID = "M9N-PZ-4kj"; */
+"M9N-PZ-4kj.placeholder" = "Номер телефона";
+
+/* Class = "UILabel"; text = "Ваша цель"; ObjectID = "Rbl-ue-wIT"; */
+"Rbl-ue-wIT.text" = "Ваша цель";
+
+/* Class = "UILabel"; text = "Код подтверждения"; ObjectID = "TXm-lp-Lxq"; */
+"TXm-lp-Lxq.text" = "Код подтверждения";
+
+/* Class = "UIButton"; normalTitle = "Далее"; ObjectID = "bfW-uS-qmH"; */
+"bfW-uS-qmH.normalTitle" = "Далее";
+
+/* Class = "UIButton"; normalTitle = "Далее"; ObjectID = "dfE-B4-PjY"; */
+"dfE-B4-PjY.normalTitle" = "Далее";
+
+/* Class = "UILabel"; text = "Номер Телефона"; ObjectID = "gaA-gG-sQE"; */
+"gaA-gG-sQE.text" = "Номер Телефона";
+
+/* Class = "UINavigationItem"; title = "Title"; ObjectID = "rRY-CN-pOE"; */
+"rRY-CN-pOE.title" = "Title";
+
+/* Class = "UILabel"; text = "Мы отправили код на номер +996 555 51 51 51, пожалуйста, введите полученный код."; ObjectID = "yAL-j6-sS9"; */
+"yAL-j6-sS9.text" = "Мы отправили код на номер +996 555 51 51 51, пожалуйста, введите полученный код.";

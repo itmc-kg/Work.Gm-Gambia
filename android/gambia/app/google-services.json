@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "873197424757",
+    "firebase_url": "https://jumush-gambia.firebaseio.com",
+    "project_id": "jumush-gambia",
+    "storage_bucket": "jumush-gambia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873197424757:android:66df2f2380591cad79283c",
+        "android_client_info": {
+          "package_name": "gm.tinder.job"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "873197424757-5iogh72e5h1cid9e3vdfoacmnv7ns2jk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "gm.tinder.job",
+            "certificate_hash": "87559dc63e990d4e1998df90108516e54eb2bf62"
+          }
+        },
+        {
+          "client_id": "873197424757-svb2p6b81qqoapat2qsno5sodqdm9a1e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoydXuIKdmF5LSqwTig-WBGX5c8jbKxUY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "873197424757-svb2p6b81qqoapat2qsno5sodqdm9a1e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "873197424757-bcnjbsoaa10nfse9bp4qspor187kakcj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "gm.tinder.job"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

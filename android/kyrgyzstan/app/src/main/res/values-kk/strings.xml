@@ -1,0 +1,233 @@
+<resources>
+    <string name="app_name">Jumush</string>
+    <string name="title_profile">Профиль</string>
+    <string name="title_search">Поиск</string>
+    <string name="title_chats">Чаты</string>
+
+    <string name="facebook_app_id">[194337235144569]</string>
+    <string name="fb_login_protocol_scheme">fb[194337235144569]</string>
+
+    <string name="invalid_phone_number">Неверный номер</string>
+    <string name="invalid_code_number">Неверный код</string>
+    <string name="resent_code_sms">Отправить код снова</string>
+    <string name="enter_code">Введи код</string>
+    <string name="send_sms_description">Мы отправили код на номер \n%1$s , пожалуйста введите полученный код</string>
+    <string name="chose_a_country">Выбрать страну</string>
+    <string name="search">Поиск</string>
+    <string name="error_no_internet">Проверьте подключение к интернету</string>
+    <string name="sms_code_send_your_phone">Код был отправлен на ваш номер с помощью СМС</string>
+    <string name="sms_timer">Повторная отправка кода\nчерез %1$s секунд</string>
+    <string name="btn_next">Далее</string>
+    <string name="welcome_text">Добро\nпожаловать</string>
+    <string name="welcome_desc">Поиск работы никогда не был\nнастолько простым</string>
+    <string name="phone_number_title">Номер\nтелефона</string>
+    <string name="phone_number_code_title">Код\nподтверждения</string>
+    <string name="profile_name_hint">ФИО</string>
+    <string name="profile_photo_info">Загрузите вашу фотографию в хорошем качестве</string>
+    <string name="profile_edu_title">Образование</string>
+    <string name="profile_work_title">Опыт работы</string>
+    <string name="add_more">+ Добавить еще</string>
+    <string name="start_date">Начало</string>
+    <string name="end_date">Конец</string>
+    <string name="profile_edu_speciality">Специализация</string>
+    <string name="profile_edu_name">Название</string>
+    <string name="profile_work_company">Компания</string>
+    <string name="profile_work_position">Позиция</string>
+    <string name="loading_text">Подождите...</string>
+    <string name="selected_sphere_count">Выбрано %d</string>
+    <string name="activity_filter_title">Фильтры</string>
+    <string name="sphere_title">Сферы</string>
+    <string name="filter_info_text">Выберите район работы и сферы, которые вас интересуют</string>
+    <string-array name="education_type">
+        <item>Высшее образование</item>
+        <item>Неполное высшее образование</item>
+        <item>Средне специальное образование</item>
+        <item>Среднее образование</item>
+        <item>Неполное среднее образование</item>
+    </string-array>
+
+    <string-array name="employment_types">
+        <item>Полная</item>
+        <item>Частичная</item>
+        <item>Стажировка</item>
+        <item>Временная</item>
+        <item>Удаленная</item>
+    </string-array>
+
+    <string-array name="salary_types">
+        <item>Фиксированная</item>
+        <item>Диапазон (по собеседованию)</item>
+        <item>Не указывать (по собеседованию)</item>
+    </string-array>
+
+    <string-array name="salary_type_ids">
+        <item>fixed</item>
+        <item>range</item>
+        <item>undefined</item>
+    </string-array>
+
+    <string-array name="schedules" >
+        <item>@string/schedules_1</item>
+        <item>@string/schedules_2</item>
+        <item>@string/schedules_3</item>
+        <item>@string/schedules_4</item>
+    </string-array>
+
+    <string name="schedules_1">Гибкий</string>
+    <string name="schedules_2">Будни</string>
+    <string name="schedules_3">Волентерство</string>
+    <string name="schedules_4">Программы/Стипендии</string>
+
+    <string name="show_profile">Показать профиль</string>
+    <string name="edit_text">Редактировать</string>
+    <string name="request_switch_text">Заявки на вакансии</string>
+    <string name="request_switch_description">Уведомлять когда работодатели принимают запросы</string>
+    <string name="request_switch_description_for_employer">Уведомлять когда соискатели подают заявку</string>
+    <string name="message_switch_text">Новые сообщения</string>
+    <string name="message_switch_description">Уведомлять когда приходят новые сообщения</string>
+    <string name="exit_text">Выйти</string>
+    <string name="about_text">О приложении</string>
+    <string name="user_agreement_text">Пользовательское соглашение</string>
+    <string name="action_settings">Настройки</string>
+    <string name="dialog_logout_msg">Вы уверены, что хотите выйти?</string>
+    <string name="employment_type_title">Занятость</string>
+    <string name="schedule_title">График</string>
+    <string name="vacancy_ok">Подать</string>
+    <string name="vacancy_next">Пропустить</string>
+    <string name="about_company_text">O Компании</string>
+    <string name="company_name_hint">Название</string>
+    <string name="employer_logo_info">Загрузите логотип вашей компании</string>
+    <string name="city_hint">Город, село или пгт</string>
+    <string name="company_about_hint">О компании</string>
+    <string name="title_vacancy">Вакансия</string>
+    <string name="vacancies">Вакансии</string>
+    <string name="add_vacancy">+ Добавить вакансию</string>
+    <string name="tab_vacancy_opened">Открытые</string>
+    <string name="tab_vacancy_closed">Закрытые</string>
+    <string name="sphere_hint">Сфера</string>
+    <string name="non_selected">Не выбрано</string>
+    <string name="schedule_title_2">График работы</string>
+    <string name="salary_title">Зарплата</string>
+    <string name="vacancy_name">Название</string>
+    <string name="vacancy_desc">Описание</string>
+    <string name="action_done">Готово</string>
+    <string name="salary_type_title">Тип</string>
+    <string name="salary_range_title">Размер</string>
+    <string name="salary_range_title_2">Размер ЗП</string>
+    <string name="save">Сохранить</string>
+    <string name="choose_region_hint">Выберите регион</string>
+    <string name="your_role">Ваша цель</string>
+    <string name="iam">Я</string>
+    <string name="employer_text">Работодатель</string>
+    <string name="employee_text">Соискатель</string>
+    <string name="employer_desc">Поиск специалиста</string>
+    <string name="employee_desc">Поиск вакансии</string>
+    <string name="change_text">Изменить</string>
+    <string name="chats_empty_title">Чаты отсутствуют</string>
+    <string name="chats_empty_description">Вы сможете начать диалог, после того как работодатель примет вашу заявку</string>
+    <string name="chats_empty_description_for_employer">Вы сможете начать диалог, после того вы примете заявку соискателя</string>
+    <string name="accept">Принять</string>
+    <string name="reject">Отклонить</string>
+    <string name="dialog_reject_text">Вы действительно хотите отклонить заявку?</string>
+    <string name="start_chat">Написать</string>
+    <string name="action_edit_vacancy">Редактировать</string>
+    <string name="action_close_vacancy">Закрыть вакансию</string>
+    <string name="action_open_vacancy">Открыть вакансию</string>
+    <string name="choose_source">Выберите</string>
+    <string name="dialog_open_settings_text">Дайте разрешение к файлам. Открыть настройки?</string>
+    <string name="dialog_storage_permission_text">Я не вижу фотки, дайте доступ</string>
+    <string name="chats_title">Чаты</string>
+    <string name="after_interview">по собеседованию</string>
+    <string name="rejected">Отклонена</string>
+    <string name="waiting">Ожидание</string>
+    <string name="send_msg_hint">Написать…</string>
+    <string name="notification_channel_message_name">Сообщения</string>
+    <string name="notification_channel_application">Заявки</string>
+    <string name="notification_channel_other">Прочее</string>
+    <string name="retry">Повторить</string>
+    <string name="notif_app_created_title">Новая заявка</string>
+    <string name="notif_app_created_text">%s подал(а) заявку</string>
+    <string name="notif_app_accepted_title">Заявка принята</string>
+    <string name="notif_app_accepted_text">%s принял вашу заявку</string>
+    <string name="employee_title">Соискатель</string>
+    <string name="vacancy_title">Вакансия</string>
+    <string name="text_about">JUMUSH – приложение созданное специально для образования прямого контакта между работодателем и работником в Кыргызстане. Если Вы работодатель в поисках высококвалифицированного сотрудника или же работник в поисках хорошей работы – то приложение JUMUSH для Вас. Поиск работы никогда не был настолько простым.
+        \n\nДанное мобильное приложение финансировалось Федеральным правительством Германии через общество «Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH» в Кыргызстане в рамках деятельности пилотного проекта «Навыки для Реинтеграции» 2018 год.</string>
+    <string name="privacy_policy"><![CDATA[
+<p> El Group Consulting built the Jumush app as an Open Source app. This SERVICE is provided by
+                    El Group Consulting at no cost and is intended for use as is.
+                  </p> <p>This page is used to inform visitors regarding our policies with the collection, use, and disclosure
+                    of Personal Information if anyone decided to use our Service.
+                  </p> <p>If you choose to use our Service, then you agree to the collection and use of information in
+                    relation to this policy. The Personal Information that we collect is used for providing and improving
+                    the Service. We will not use or share your information with anyone except as described
+                    in this Privacy Policy.
+                  </p> <p>The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is
+                    accessible at Jumush unless otherwise defined in this Privacy Policy.
+                  </p> <p><strong>Information Collection and Use</strong></p> <p>For a better experience, while using our Service, we may require you to provide us with certain
+                    personally identifiable information. The information that we request will be retained by us and used as described in this privacy policy.
+                  </p> <p>The app does use third party services that may collect information used to identify you.</p> <div><p>Link to privacy policy of third party service providers used by the app</p> <ul><li><a href="https://www.google.com/policies/privacy/" target="_blank">Google Play Services</a></li><!----><!----><!----><!----><!----><!----><!----></ul></div> <p><strong>Log Data</strong></p> <p> We want to inform you that whenever you use our Service, in a case of
+                    an error in the app we collect data and information (through third party products) on your phone
+                    called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address,
+                    device name, operating system version, the configuration of the app when utilizing our Service,
+                    the time and date of your use of the Service, and other statistics.
+                  </p> <p><strong>Cookies</strong></p> <p>Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers.
+                    These are sent to your browser from the websites that you visit and are stored on your device\'s internal
+                    memory.
+                  </p> <p>This Service does not use these “cookies” explicitly. However, the app may use third party code and
+                    libraries that use “cookies” to collect information and improve their services. You have the option to
+                    either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose
+                    to refuse our cookies, you may not be able to use some portions of this Service.
+                  </p> <p><strong>Service Providers</strong></p> <p> We may employ third-party companies and individuals due to the following reasons:</p> <ul><li>To facilitate our Service;</li> <li>To provide the Service on our behalf;</li> <li>To perform Service-related services; or</li> <li>To assist us in analyzing how our Service is used.</li></ul> <p> We want to inform users of this Service that these third parties have access to
+                    your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However,
+                    they are obligated not to disclose or use the information for any other purpose.
+                  </p> <p><strong>Security</strong></p> <p> We value your trust in providing us your Personal Information, thus we are striving
+                    to use commercially acceptable means of protecting it. But remember that no method of transmission over
+                    the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee
+                    its absolute security.
+                  </p> <p><strong>Links to Other Sites</strong></p> <p>This Service may contain links to other sites. If you click on a third-party link, you will be directed
+                    to that site. Note that these external sites are not operated by us. Therefore, we strongly
+                    advise you to review the Privacy Policy of these websites. We have no control over
+                    and assume no responsibility for the content, privacy policies, or practices of any third-party sites
+                    or services.
+                  </p> <p><strong>Children’s Privacy</strong></p> <p>These Services do not address anyone under the age of 13. We do not knowingly collect
+                    personally identifiable information from children under 13. In the case we discover that a child
+                    under 13 has provided us with personal information, we immediately delete this from
+                    our servers. If you are a parent or guardian and you are aware that your child has provided us with personal
+                    information, please contact us so that we will be able to do necessary actions.
+                  </p> <p><strong>Changes to This Privacy Policy</strong></p> <p> We may update our Privacy Policy from time to time. Thus, you are advised to review
+                    this page periodically for any changes. We will notify you of any changes by posting
+                    the new Privacy Policy on this page. These changes are effective immediately after they are posted on
+                    this page.
+                  </p> <p><strong>Contact Us</strong></p> <p>If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact
+                    us.
+]]></string>
+    <string name="choose_country_text">Страна</string>
+    <string name="settings_country">Страна</string>
+    <string name="fill_all_fields">Заполните все поля</string>
+    <string name="unknown_error">Произошла ошибка</string>
+    <string name="profile">Профиль</string>
+    <string name="about_company">О компании</string>
+    <string name="fill_empty_fields">Заполните пустые поля</string>
+    <string name="input_your_name">Введите ваше имя</string>
+    <string name="input_your_company">Введите компанию</string>
+    <string name="input_your_position">Введите позицию</string>
+    <string name="check_your_internet_connection">Произошла ошибка. Проверьте подключение к интернету</string>
+    <string name="new_vacancy">Новая вакансия</string>
+    <string name="edit_vacancy">Изменение вакансии</string>
+    <string name="range_not_specified">Не указана</string>
+    <string name="range_from">от %d</string>
+    <string name="today">Сегодня</string>
+    <string name="applications">Заявки</string>
+    <string name="choose_language_text">Language</string>
+    <string name="become_employer">Become employer</string>
+    <string name="become_employee">Become employee</string>
+    <string name="all_vacancies_viewed">All vacancies currently available are viewed.</string>
+    <string name="language">Language</string>
+    <string name="currently_no_aplication">В данный момент заявки отсутствуют</string>
+    <string name="about_vacancy">О ваканции</string>
+    <string name="ok">OK</string>
+    <string name="cancel">CANCEL</string>
+    <string name="currently_no_vacancies">В данный момент вакансий отсутствуют</string>
+    <string name="all_applications_viewed">All vacancies currently available are viewed.</string>
+</resources>

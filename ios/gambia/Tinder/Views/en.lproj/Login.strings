@@ -1,0 +1,42 @@
+
+/* Class = "UIButton"; normalTitle = "+996"; ObjectID = "1lf-B2-jYK"; */
+"1lf-B2-jYK.normalTitle" = "+996";
+
+/* Class = "UILabel"; text = "Welcome"; ObjectID = "5mx-0M-wzU"; */
+"5mx-0M-wzU.text" = "Welcome";
+
+/* Class = "UIBarButtonItem"; title = "Cancel"; ObjectID = "62V-A5-FCU"; */
+"62V-A5-FCU.title" = "Cancel";
+
+/* Class = "UITextField"; placeholder = "Confirmation code"; ObjectID = "9Cp-yd-FAp"; */
+"9Cp-yd-FAp.placeholder" = "Confirmation code";
+
+/* Class = "UILabel"; text = "Job search has never been so easy"; ObjectID = "Dbf-Fl-yQw"; */
+"Dbf-Fl-yQw.text" = "Job search has never been so easy";
+
+/* Class = "UILabel"; text = "Country"; ObjectID = "FSW-6y-xie"; */
+"FSW-6y-xie.text" = "Country";
+
+/* Class = "UITextField"; placeholder = "Phone number"; ObjectID = "M9N-PZ-4kj"; */
+"M9N-PZ-4kj.placeholder" = "Phone number";
+
+/* Class = "UILabel"; text = "Your goal"; ObjectID = "Rbl-ue-wIT"; */
+"Rbl-ue-wIT.text" = "Your goal";
+
+/* Class = "UILabel"; text = "Confirmation code"; ObjectID = "TXm-lp-Lxq"; */
+"TXm-lp-Lxq.text" = "Confirmation code";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "bfW-uS-qmH"; */
+"bfW-uS-qmH.normalTitle" = "Next";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "dfE-B4-PjY"; */
+"dfE-B4-PjY.normalTitle" = "Next";
+
+/* Class = "UILabel"; text = "Phone number"; ObjectID = "gaA-gG-sQE"; */
+"gaA-gG-sQE.text" = "Phone number";
+
+/* Class = "UINavigationItem"; title = "Title"; ObjectID = "rRY-CN-pOE"; */
+"rRY-CN-pOE.title" = "Title";
+
+/* Class = "UILabel"; text = "We've sent the code to the number +996 555 51 51 51, please enter the code you received."; ObjectID = "yAL-j6-sS9"; */
+"yAL-j6-sS9.text" = "We've sent the code to the number +996 555 51 51 51, please enter the code you received.";

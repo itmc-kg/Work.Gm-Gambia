@@ -1,0 +1,9 @@
+
+/* Class = "UIButton"; normalTitle = "Далее"; ObjectID = "GoE-PC-bLW"; */
+"GoE-PC-bLW.normalTitle" = "Далее";
+
+/* Class = "UILabel"; text = "Загрузите вашу фотографию\nв хорошем качестве"; ObjectID = "jlu-ln-5aI"; */
+"jlu-ln-5aI.text" = "Загрузите вашу фотографию\nв хорошем качестве";
+
+/* Class = "UITextField"; placeholder = "ФИО"; ObjectID = "xPB-Z2-ZPO"; */
+"xPB-Z2-ZPO.placeholder" = "ФИО";

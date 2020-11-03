@@ -1,0 +1,121 @@
+/* 
+  Localizable.strings
+  Tinder
+
+  Created by Avaz on 7/5/19.
+  Copyright © 2019 Azamat Kushmanov. All rights reserved.
+*/
+
+
+
+"language" = "Кыргызча";
+"iam" = "Мен";
+"employeeLabel" = "Изденүүчү";
+"employerLabel" = "Жумуш берүүчү";
+
+"findVacanciesLabel" = "Бош орун издөө";
+"findSpecialistsLabel" = "Адис издөө";
+
+"country" = "Өлкө";
+"countries" = "Өлкөр";
+"all_regions" = "Жалпы Кыргызстан";
+"selected" = "Тандалды";
+"new_vacancy" = "Жаңы бош орун";
+"edit_vacancy" = "Бош орундун өзгөрүп кетиши";
+"description" = "Сүрөтөлүшү";
+"employment" = "Жумуштуулук";
+"grafic" = "График";
+"education" = "Билим берүү";
+"expiriance" =  "Иш тажрыйба";
+"upload_photo" = "Сүрөт жүктөө";
+"cancel" = "Баш тартуу";
+"applications" = "Өтүнмөлөр";
+"from" = "от";
+"by_interview" = "Аңгемелешкенден кийин ";
+"not_indicated" = "Көрсөтүлгөн жок (аңгемелешкенден кийин)";
+"delete" = "Өчүрүү";
+"vacancy" = "Бош орун";
+"fixed" = "Белгиленген";
+"range_salary" = "Диапазон (маектешкенден кийин)";
+"yesterday" = "Кечээ";
+"today" = "Бүгүн";
+"eigher_education" = "Жогорку билим";
+"yes" = "Ооба";
+"logout" = "Сиз чын эле чыккыңыз келип жатабы?";
+//"sphere" = "Чөйрө";
+"sphere" = "Иштѳѳ сфералары";
+"salary" = "Эмгек акы";
+"schedule" = "Иштин графиги";
+"not_selected" = "Тандалган жок";
+"cancel_application" = "Сиз чын эле өтүнмөдөн баш тарткыңыз келип жатабы?";
+"gallery" = "Галлерея";
+"camera" = "Камера";
+"about_company" = "Компания жөнүндө";
+"type" = "Тип";
+"close_vacancy" = "Бош орунду жабуу";
+"open_vacancy" = "Бош орунду ачуу";
+
+"we_sent_code" = "Биз кодду номерге жөнөттүк";
+"please_confirm" = "Сураныч келген кодду киргизиңиз.";
+
+//SANTINEET
+"applyLabel" = "ТАПШЫРУУ";
+"dissmisLabel" = "ӨТКӨРҮҮ";
+"editCompany" = "Редакциялоо";
+"sendMessage" = "Жазуу";
+"editButton" = "Редакциялоо";
+"createVacancyButton" = "+ Бош орун кошуу";
+"editVacancy" = "Өзгөртүү";
+"resendButton" = "Кайрадан жөнөтүү";
+
+//settings
+"newMessagesLabel" = "Жаңы билдирүү";
+"aboutNewMessages" = "Жаңы билдирүүлөр келгенде маалымдоо";
+"answersLabel" = "Сурамдарга жооп";
+"aboutAnswersLabel" = "Иш берүүчүлөр сурамды кабыл алганда билдириңиз";
+"termsOfUseLabel" = "Пайдалануучу макулдук";
+"aboutAppLabel" = "Колдонмо жөнүндө";
+"logoutLabel" = "Чыгуу";
+"languageSetupLabel" = "Тил";
+"settingsTitle" = "Тууралоо";
+"chooseLanguage" = "Тилди тандаңыз";
+//Change User Role
+"employee" = "Иш берүүчү болуу";
+"employer" = "Изденүүчү болуу";
+"changeRoleAlert" = "Сиз чын эле ролуңузду алмаштыргыңыз келип жатабы?";
+"chooseLanguageLabel" = "Тилди тандоо";
+
+// ApplicationsTVC
+"showProfileButton" = "Профилди көрсөтүү";
+
+//TabBarController
+"profileTitle" = "Профиль";
+"searchTitle" = "Издөө";
+"chatTitle" = "Баарлашуулар";
+
+//EmployeeKolodaView
+
+"acceptLabel" = "КАБЫЛ АЛУУ";
+"skipLabel" = "КАБЫЛ АЛБОО";
+"acceptSendMessage" = "БИЛДИРҮҮ ЖӨНӨТҮҮ";
+ 
+// CompanyVacanciesHeaderTVCell
+"activeButton" = "Активдүүлөр";
+"closedButton" = "Жабыктар";
+
+//new
+"vacancyLabel" = "Бош орундар";
+
+// SelectVacancySheduleTVC
+"volunteeringLabel" = "Волонтердук";
+"grantsLabel" = "Программалар/стипендиялар";
+
+//NoVacanciesTVCell
+"noVacanciesLabel" = "Азыркы учурда ѳтүнмѳлѳр жок";
+
+"noNewVacanciesAlert" = "Бүгүнкү күнү бош кызмат орундар ушул.";
+
+"next" = "Мындан ары";
+
+"vacancyFilterLabel" = "Издѳѳ чипкасы";
+"salaryLabel" = "Маянанын ѳлчѳмү";

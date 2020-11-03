@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/search_background"
+    tools:context=".ui.search.SearchFragment">
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="250dp"
+        app:cardCornerRadius="8dp"
+        android:id="@+id/cardEmpty"
+        android:visibility="gone"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_height="250dp">
+
+        <TextView
+            android:layout_margin="16dp"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:textAlignment="center"
+            android:fontFamily="sans-serif"
+            android:textColor="@color/bluish_black"
+            android:textSize="16sp"
+            android:layout_width="match_parent"
+            android:text="@string/all_vacancies_viewed"
+            android:layout_height="match_parent"/>
+
+    </androidx.cardview.widget.CardView>
+
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recyclerView"
+        android:elevation="3dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        tools:layoutManager="com.adgvcxz.cardlayoutmanager.CardLayoutManager"
+        tools:listitem="@layout/item_vacancy" />
+
+    <ImageButton
+        android:id="@+id/filter"
+        style="@style/Widget.AppCompat.ActionButton.Overflow"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="16dp"
+        android:layout_marginTop="40dp"
+        android:elevation="3dp"
+        android:src="@drawable/ic_fliter_circle"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+    <LinearLayout
+        android:elevation="3dp"
+        android:visibility="gone"
+        android:id="@+id/return_vacancy"
+        android:layout_width="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="40dp"
+        android:layout_height="wrap_content">
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="36dp"
+            android:layout_height="36dp"
+            app:cardCornerRadius="30dp"
+            app:cardElevation="4dp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent">
+
+            <com.facebook.drawee.view.SimpleDraweeView
+                android:id="@+id/avatar_last"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:layout_gravity="center"
+                android:background="?selectableItemBackgroundBorderless"
+                android:scaleType="centerCrop"
+                app:backgroundImage="@color/mid_grey_2"
+                app:placeholderImage="@drawable/ic_location_city"
+                app:roundAsCircle="true" />
+        </androidx.cardview.widget.CardView>
+
+        <ImageView
+            android:layout_marginStart="2dp"
+            android:layout_gravity="center_vertical"
+            android:layout_width="24dp"
+            android:src="@drawable/ic_return"
+            android:layout_height="24dp"/>
+
+    </LinearLayout>
+
+
+
+
+    <ProgressBar
+        android:elevation="2dp"
+        android:id="@+id/progressbar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

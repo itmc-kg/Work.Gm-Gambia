@@ -1,0 +1,12 @@
+
+/* Class = "UITextField"; placeholder = "Конец"; ObjectID = "6eB-Vf-tRn"; */
+"6eB-Vf-tRn.placeholder" = "Конец";
+
+/* Class = "UITextField"; placeholder = "Позиция"; ObjectID = "Ath-2L-z7V"; */
+"Ath-2L-z7V.placeholder" = "Позиция";
+
+/* Class = "UITextField"; placeholder = "Начало"; ObjectID = "dCu-v4-PfP"; */
+"dCu-v4-PfP.placeholder" = "Начало";
+
+/* Class = "UITextField"; placeholder = "Компания"; ObjectID = "lsQ-ax-yxM"; */
+"lsQ-ax-yxM.placeholder" = "Компания";

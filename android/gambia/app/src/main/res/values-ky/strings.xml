@@ -1,0 +1,207 @@
+<resources>
+    <string name="app_name">Jumush</string>
+    <string name="title_profile">Профиль</string>
+    <string name="title_search">Издөө</string>
+    <string name="title_chats">Сүйлөшүүлөр</string>
+
+    <string name="facebook_app_id">[194337235144569]</string>
+    <string name="fb_login_protocol_scheme">fb[194337235144569]</string>
+
+    <string name="invalid_phone_number">Жарамсыз телефон номери</string>
+    <string name="invalid_code_number">Туура эмес код</string>
+    <string name="resent_code_sms">Кодду кайталап жөнөтүү</string>
+    <string name="enter_code">Кодду киргизүү</string>
+    <string name="send_sms_description">Биз \n%1$s номерине кодду жөнөттүк, сураныч, жиберилген кодду киргизиңиз</string>
+    <string name="chose_a_country">Өлкөнү тандаңыз</string>
+    <string name="search">Издөө</string>
+    <string name="error_no_internet">Интернетке туташууну текшериңиз</string>
+    <string name="sms_code_send_your_phone">Код СМС аркылуу сиздин номериңизге жиберилди</string>
+    <string name="sms_timer">Кодду %1$s секундадан кийин кайталап жөнөтүү</string>
+    <string name="btn_next">Алдыга</string>
+    <string name="welcome_text">Кош келиңиз!</string>
+    <string name="welcome_desc">Жумуш издөө эч качан ушунчалык жөнөкөй болгон эмес</string>
+    <string name="phone_number_title">Телефонуңуздун номери</string>
+    <string name="phone_number_code_title">Ырастоочу код</string>
+    <string name="profile_name_hint">Толук аты-жөнү</string>
+    <string name="profile_photo_info">Жогорку сапаттагы сүрөтүңүздү жүктөңүз</string>
+    <string name="profile_edu_title">Билимиңиз</string>
+    <string name="profile_work_title">Иш тажрыйбаңыз</string>
+    <string name="add_more">+ Көбүрөөк кошуу</string>
+    <string name="start_date">Башталыш датасы</string>
+    <string name="end_date">Бүтүрүү датасы</string>
+    <string name="profile_edu_speciality">Адистиги</string>
+    <string name="profile_edu_name">Университеттин аталышы</string>
+    <string name="profile_work_company">Компаниянын аталышы</string>
+    <string name="profile_work_position">Кызматы</string>
+    <string name="loading_text">Жүктөө…</string>
+    <string name="selected_sphere_count">Тандалып алынган %d</string>
+    <string name="activity_filter_title">Фильтрлер</string>
+    <string name="sphere_title">Тармактар</string>
+    <string name="filter_info_text">Сиз каалаган иштөө чөйрөсүн жана сизди кызыктырган тармактарды тандаңыз</string>
+    <string-array name="education_type">
+        <item>Жогорку билим</item>
+        <item>Толук эмес жогорку билим</item>
+        <item>Кесиптик-техникалык билим</item>
+        <item>Орто билим</item>
+        <item>Толук эмес орто билим</item>
+    </string-array>
+
+    <string-array name="employment_types">
+        <item>Толук жумуш күн</item>
+        <item>Толук эмес жумуш күн</item>
+        <item>Такшалма</item>
+        <item>Убактылуу</item>
+        <item>Алыстан иштөө</item>
+    </string-array>
+
+    <string-array name="salary_types">
+        <item>Бекитилген</item>
+        <item>Диапазону(аңгемелешүүнүн жыйынтыгы боюнча)</item>
+        <item>Көрсөтүлгөн эмес(аңгемелешүүнүн жыйынтыгы боюнча)</item>
+    </string-array>
+
+<!--    <string-array name="salary_type_ids">-->
+<!--        <item>бекитилген</item>-->
+<!--        <item>диапазону</item>-->
+<!--        <item>аныкталбаган</item>-->
+<!--    </string-array>-->
+
+    <string-array name="salary_type_ids">
+        <item>fixed</item>
+        <item>range</item>
+        <item>undefined</item>
+    </string-array>
+
+    <string-array name="schedules" >
+        <item>@string/schedules_1</item>
+        <item>@string/schedules_2</item>
+        <item>@string/schedules_3</item>
+        <item>@string/schedules_4</item>
+    </string-array>
+
+    <string name="schedules_1">Ийкемдүү</string>
+    <string name="schedules_2">Жумуш күндөрү</string>
+    <string name="schedules_3">Волонтердук</string>
+    <string name="schedules_4">Программалар/стипендиялар</string>
+
+    <string name="show_profile">Профилди көрсөтүү</string>
+    <string name="edit_text">Өзгөртүү</string>
+    <string name="request_switch_text">Жумушка өтүнмөлөр</string>
+    <string name="request_switch_description">Жумуш берүүчүлөр өтүнмөлөргө жооп бергенде кабарлоо</string>
+    <string name="request_switch_description_for_employer">Жумуш издөөчүлөр жумушка өтүнмө  бергенде кабарлоо</string>
+    <string name="message_switch_text">Жаңы билдирүүлөр</string>
+    <string name="message_switch_description">Жаңы билдирүүлөр келгени тууралуу кабарлоо</string>
+    <string name="exit_text">Чыгуу</string>
+    <string name="about_text">Өтүнмө жөнүндө</string>
+    <string name="user_agreement_text">Пайдалануу келишими</string>
+    <string name="action_settings">Ырастоолор</string>
+    <string name="dialog_logout_msg">Сиз чын эле системадан чыккыңыз келип жатабы?</string>
+    <string name="employment_type_title">Жумуштуулуктун түрү</string>
+    <string name="schedule_title">Жумуш графиги</string>
+    <string name="vacancy_ok">Колдонуу</string>
+    <string name="vacancy_next">Өткөрүп жиберүү</string>
+    <string name="about_company_text">Компания жөнүндө</string>
+    <string name="company_name_hint">Компаниянын аталышы</string>
+    <string name="employer_logo_info">Сиздин компанияңыздын логотибин жүктөө</string>
+    <string name="city_hint">Шаар, айыл-кыштак же шаарча</string>
+    <string name="company_about_hint">Компания жөнүндө</string>
+    <string name="title_vacancy">Борш орун</string>
+    <string name="vacancies">Вакансиялар</string>
+    <string name="add_vacancy">+ Вакансияны кошуу</string>
+    <string name="tab_vacancy_opened">Ачык</string>
+    <string name="tab_vacancy_closed">Жабык</string>
+    <string name="sphere_hint">Тармак</string>
+    <string name="non_selected">Тандалган эмес</string>
+    <string name="schedule_title_2">Жумуш графиги</string>
+    <string name="salary_title">Эмгек акы</string>
+    <string name="vacancy_name">Аталышы</string>
+    <string name="vacancy_desc">Вакансия жөнүндө</string>
+    <string name="action_done">Даяр</string>
+    <string name="salary_type_title">Түрү</string>
+    <string name="salary_range_title">Өлчөмү</string>
+    <string name="salary_range_title_2">Эмгек акынын диапазону</string>
+    <string name="save">Сактоо</string>
+    <string name="choose_region_hint">Аймакты тандаңыз</string>
+    <string name="your_role">Сиздин максатыңыз</string>
+    <string name="iam">Мен</string>
+    <string name="employer_text">Жумуш берүүчү</string>
+    <string name="employee_text">Жумуш издөөчү</string>
+    <string name="employer_desc">Кызматкер издөө</string>
+    <string name="employee_desc">Вакансия издөө</string>
+    <string name="change_text">Өзгөртүү</string>
+    <string name="chats_empty_title">Билдирүүлөр тизмеси бош</string>
+    <string name="chats_empty_description">Жумуш берүүчү сиздин өтүнмөңүздү кабыл алгандан кийин сиз диалогду баштай аласыз.</string>
+    <string name="chats_empty_description_for_employer">Сиз жумуш издөөчүнүн өтүнмөсүн кабыл алгандан кийин диалогду баштай аласыз.</string>
+    <string name="accept">Кабыл алуу</string>
+    <string name="reject">Четке кагуу</string>
+    <string name="dialog_reject_text">Сиз чын эле бул өтүнмөнү четке кагыңыз келип жатабы? </string>
+    <string name="start_chat">Диалогду баштоо</string>
+    <string name="action_edit_vacancy">Өзгөртүү</string>
+    <string name="action_close_vacancy">Вакансияны жабуу</string>
+    <string name="action_open_vacancy">Вакансияны ачуу</string>
+    <string name="choose_source">Тандоо</string>
+    <string name="dialog_open_settings_text">Файлдарга уруксат берүүңүздү суранам. Ырастоолорду ачуу.</string>
+    <string name="dialog_storage_permission_text">Мен сүрөттөрдү көрө албай жатам, сураныч, уруксат бериңиз. </string>
+    <string name="chats_title">Сүйлөшүүлөр</string>
+    <string name="after_interview">Аңгемелешүүнүн жыйынтыгы боюнча</string>
+    <string name="rejected">Четке кагылган</string>
+    <string name="waiting">Күтүү</string>
+    <string name="send_msg_hint">Билдирүү жөнөтүү…</string>
+    <string name="notification_channel_message_name">Билдирүүлөр</string>
+    <string name="notification_channel_application">Өтүнмөлөр</string>
+    <string name="notification_channel_other">Башка</string>
+    <string name="retry">Кайталоо</string>
+    <string name="notif_app_created_title">Жаңы өтүнмө</string>
+    <string name="notif_app_created_text">%s өтүнмө жөнөтүү</string>
+    <string name="notif_app_accepted_title">Өтүнмө кабыл алынды</string>
+    <string name="notif_app_accepted_text">%s сиздин өтүнмөңүздү кабыл алды</string>
+    <string name="employee_title">Кызматкер</string>
+    <string name="vacancy_title">Вакансия</string>
+    <string name="text_about">JUMUSH – бул Кыргызстанда жумуш берүүчү менен кызматкердин ортосунда түздөн-түз байланышты түзүү үчүн атайын түзүлгөн колдонмо. Эгерде сиз мыкты квалификациялуу кызматкерди издеп жаткан жумуш берүүчү же жакшы жумуш издеп жаткан кызматкер болсоңуз, анда JUMUSH колдонмосу - Сиз үчүн. Жумуш издөө эч качан ушунчалык жөнөкөй болгон эмес.
+        \n\nБул мобилдик колдонмо 2018-жылы “Реинтеграциялоо үчүн жөндөмдүүлүк” пилоттук долбоордун алкагында Кыргызстандагы "Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH" коомунун көмөктөшүүсү  аркылуу Германиянын Федералдык өкмөтү тарабынан каржыланды.</string>
+    <string name="privacy_policy"><![CDATA[
+<p> El Group Consulting компаниясы Jumush колдонмосун  ачык баштапкы коддуу колдонмо катары жараткан. Бул КЫЗМАТТАР El Group Consulting компаниясы тарабынан акысыз берилет жана  шартсыз колдонуу үчүн иштелип чыккан.
+                  </p> <p>Эгерде кимдир бирөө биздин Кызматтарыбызды пайдаланууну чечсе, бул баракча биздин Жеке маалыматтарды чогултуу, пайдалануу жана ачыкка чыгаруу эрежелерибиз тууралуу келгендерге маалымат берүү үчүн колдонулат.
+                  </p> <p>Сиз биздин Кызматтарыбызды пайдалануу жөнүндө чечим кабыл алсаңыз, анда бул саясатка ылайык маалыматтарды чогултууга жана пайдаланууга макулдугуңузду бересиз. Биз чогулткан Жеке маалымат Кызматтарды берүү жана жакшыртуу үчүн колдонулат. Биз сиздин маалыматтарыңызды ушул Купуялуулук саясатында көрсөтүлгөн учурлардан тышкары башка учурларда пайдаланбайбыз же башка бирөөлөргө бербейбиз.
+                  </p> <p>Эгерде бул Купуялуулук саясатында башкасы каралбаса, ушул Купуялуулук саясатында колдонулган терминдер Jumush колдонмосунда жеткиликтүү болгон биздин Жоболор жана Шарттарда берилген терминдер менен бирдей мааниге ээ.
+                  </p> <p><strong>Маалыматты чогултуу жана колдонуу</strong></p> <p>Биздин Кызматтарды бир кыйла ыңгайлуу колдонуу үчүн биз сизден бизге белгилүү бир Жеке маалымат берүүңүздү талап кылышыбыз мүмкүн. Биз сураган маалымат бул Купуялуулук саясатында көрсөтүлгөндөй биз тарабынан сакталат жана пайдаланылат.
+                  </p> <p>Бул колдонмо сизди идентификациялоо үчүн пайдаланылуучу маалымат чогулта турган үчүнчү тараптын кызматтарын колдонот.</p> <div><p>Колдонмо тарабынан колдонулган үчүнчү тараптын кызмат көрсөтүүчүлөрүнүн Купуялуулук саясатына шилтеме</p> <ul><li><a href="https://www.google.com/policies/privacy/" target="_blank">Google Play Кызматтары</a></li><!----><!----><!----><!----><!----><!----><!----></ul></div> <p><strong>Журналдагы маалыматтар</strong></p> <p>Сиз биздин Кызматтарыбыз менен пайдаланган ар бир учурда колдонмодо каталар келип чыкканда, биз маалыматтарды жана берилмелерди (үчүнчү тараптын кызматтары аркылуу) сиздин телефонуңуздан Log Data (Журналдагы маалыматтар) аркылуу чогултуп жатканыбыз тууралуу  сизге билдиргибиз келет. Бул журналдын маалыматтары сиздин аппаратыңыздын Интернет-протоколунун («IP») дареги, түзүлүштүн аталышы, операциялык тутумдун версиясы сыяктуу маалыматтарды, биздин Кызматтарыбызды пайдаланууда колдонмонун конфигурациясы, Кызматтарыбызды пайдалануунун убакыты жана датасы, ошондой эле башка статистикалык маалыматтарды камтышы мүмкүн.
+                  </p> <p><strong>Cookie-файлдары</strong></p> <p>Cookie-файлдары, адатта, анонимдүү уникалдуу идентификаторлор катары колдонулган маалыматтардын кичинекей көлөмүн камтыган файлдар болуп саналат. Алар сиз кирген веб-сайттардан сиздин браузериңизге жөнөтүлөт жана сиздин түзүлүшүңүздүн  ички эсте туткучунда сакталат.
+                  </p> <p>Бул Кызматтар cookie-файлдарын ачык пайдаланбайт. Бирок, колдонмо маалымат чогултуу жана кызмат көрсөтүүлөрдү жакшыртуу үчүн cookie-файлдарын пайдаланган үчүнчү тараптардын кодун жана китепканаларын колдонушу мүмкүн. Сизде бул cookie-файлдарын кабыл алуу же четке кагуу жана cookie-файлдары сиздин түзүлүшүңүзгө качан жөнөтүлгөндүгүн билүү мүмкүнчүлүгүңүз бар. Эгерде сиз биздин cookie-файлдарыбыздан баш тартууну чечсеңиз, анда сиз бул Кызматтардын айрым бөлүгүн пайдалана албай каласыз.
+                  </p> <p><strong>Кызмат көрсөтүүчүлөр</strong></p> <p> Биз төмөнкү себептерден улам үчүнчү тарап компанияларды жана жеке адамдарды жумушка жалдай алабыз:</p> <ul><li>Биздин Кызматтарды жеңилдетүү үчүн;</li> <li>Биздин атыбыздан Кызматтарды көрсөтүү үчүн;</li> <li>Биздин Кызматтарыбызга байланыштуу кызматтарды аткаруу үчүн; же</li> <li>Биздин Кызматтарыбыз кандай колдонулуп жатканын анализдөөгө жардам берүү үчүн.</li></ul> <p> Биз бул үчүнчү тараптар сиздин Жеке маалыматтарыңызды окууга мүмкүнчүлүгү бар деп, бул Кызматтардын пайдалануучуларын маалымдагыбыз келет. Мунун себеби –  аларга тапшырылган милдеттерди биздин атыбыздан аткарууда. Бирок алар бул маалыматтарды ачыкка чыгарбоого жана башка максаттар үчүн пайдаланбоого милдеттүү.
+                  </p> <p><strong>Коопсуздук</strong></p> <p> Биз сиздин бизге жеке маалыматтарыңызды берүүдө ишеним көрсөтүүңүздү баалайбыз, ошондуктан биз аларды коргоодо коммерциялык жактан алгылыктуу ыкмаларды пайдаланууга умтулабыз. Бирок, эч кандай интернет аркылуу жөнөтүү же электрондук сактоо ыкмасы 100% коопсуз жана ишенимдүү ыкма болбогондугун унутпаңыз, биз алардын абсолюттук коопсуздугун камсыз кылууга кепилдик бере албайбыз.
+                  </p> <p><strong>Башка веб-сайттарга шилтемелер</strong></p> <p>Бул Кызматтар башка веб-сайттарга шилтемелерди камтышы мүмкүн. Сиз үчүнчү тараптын шилтемесин басканда, сиз бул веб-сайтка жиберилесиз. Бул тышкы веб-сайттар биз тарабынан башкарылбайт экенин белгилеп кетмекчибиз. Ошондуктан, биз сизди бул веб-сайттардын Купуялуулук саясаты менен таанышып чыгууну сунуштайбыз. Биз эч кандай башка веб-сайттардын же кызматтардын мазмуну, Купуялуулук саясаты же аракеттери үчүн эч кандай жоопкерчилик тартпайбыз.
+                  </p> <p><strong>Балдардын купуялуулугу</strong></p> <p>Бул Кызматтар курагы 13 жашка чейинки балдар үчүн эмес. Биз атайылап 13 жашка чейинки балдар тууралуу жеке маалыматтарды чогултпайбыз. Эгерде биз 13 жашка чейинки бала жеке маалыматын бергендигин билсек, анда биз дароо эле Кызматтарыбыздан ошол маалыматты алып салабыз. Сиз баланын ата-энеси же камкорчусу болуп, балаңыз бизге жеке маалыматтарды бергенин билсеңиз, анда биз зарыл болгон иш-аракеттерди аткарышыбыз үчүн биз менен байланышууну өтүнөбүз.
+                  </p> <p><strong>Ушул Купуялуулук саясатындагы өзгөртүүлөр</strong></p> <p> Биз мезгил-мезгили менен биздин Купуялуулук саясатыбызга өзгөртүүлөрдү киргизип турабыз. Ошентип, сизге мезгил-мезгили менен өзгөртүүлөр бар экендиги тууралуу бул баракчаны кароо сунуш кылынат. Биз сизди бул баракчага жаңы Купуялуулук саясатын жайгаштыруу менен кандайдыр бир өзгөрүүлөр тууралуу маалымдайбыз. Бул өзгөртүүлөр ошол баракчага аларды жарыялоодон кийин дароо күчүнө киришет.
+                  </p> <p><strong>Биз менен байланышыңыз</strong></p> <p> Эгерде сизде биздин Купуялуулук саясатыбызга байланыштуу кандайдыр бир суроолор жана сунуштар пайда болсо, тартынбай  бизге кайрылыңыз.
+]]></string>
+    <string name="choose_country_text">Өлкө</string>
+    <string name="settings_country">Өлкө</string>
+    <string name="fill_all_fields">Бардык талааларды толтуруу</string>
+    <string name="unknown_error">Ката пайда болду</string>
+    <string name="profile">Профиль</string>
+    <string name="about_company">Компания жөнүндө</string>
+    <string name="fill_empty_fields">Бош талааларын толтуруу</string>
+    <string name="input_your_name">Атыңызды жазыңыз</string>
+    <string name="input_your_company">Компанияны жазыңыз</string>
+    <string name="input_your_position">Кызматты жазыңыз</string>
+    <string name="check_your_internet_connection">Ката пайда болду. Интернетке туташууну текшериңиз</string>
+    <string name="new_vacancy">Жаңы вакансия</string>
+    <string name="edit_vacancy">Вакансияны өзгөртүү</string>
+    <string name="range_not_specified">Көрсөтүлгөн эмес</string>
+    <string name="range_from">%d баштап</string>
+    <string name="today">Бүгүн</string>
+    <string name="applications">Өтүнмөлөр</string>
+    <string name="choose_language_text">Тил</string>
+    <string name="become_employer">Жумуш берүүчү болуу</string>
+    <string name="become_employee">Жумуш издөөчү болуу</string>
+    <string name="all_vacancies_viewed">Учурдагы бардык жумуштар, карап чыгылды.</string>
+    <string name="language">Тил</string>
+    <string name="currently_no_aplication">Азыркы учурда эч кандай сунуштар жок</string>
+    <string name="about_vacancy">Вакансия жөнүндө</string>
+    <string name="ok">Ооба</string>
+    <string name="cancel">Жок</string>
+    <string name="currently_no_vacancies">Азыркы учурда эч кандай сунуштар жок</string>
+    <string name="all_applications_viewed">Учурдагы бардык сунуштар, карап чыгылды.</string>
+
+</resources>
